@@ -1,0 +1,5 @@
+{
+  "name": "EduPintar Indonesia",
+  "description": "Platform pembelajaran interaktif berbasis AI Lokal (FMA Neural Engine). Bisa jalan offline, tanpa API Key, dan gratis selamanya untuk siswa Indonesia.",
+  "requestFramePermissions": []
+}
